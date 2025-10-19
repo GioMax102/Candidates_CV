@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Barrita prote"
+    },
+    {
+      "id": 1,
+      "name": "Caja med"
+    },
+    {
+      "id": 2,
+      "name": "Des. Dove"
+    },
+    {
+      "id": 3,
+      "name": "Des. Rexona"
+    },
+    {
+      "id": 4,
+      "name": "Gansito"
+    },
+    {
+      "id": 5,
+      "name": "Jumex durazno"
+    },
+    {
+      "id": 6,
+      "name": "Minir\u00edn"
+    },
+    {
+      "id": 7,
+      "name": "Ol\u00e9 clasico"
+    },
+    {
+      "id": 8,
+      "name": "Ping\u00fcinos"
+    },
+    {
+      "id": 9,
+      "name": "Pluma pez"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
